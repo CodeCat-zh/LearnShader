@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Scan
   m_Shader: {fileID: 4800000, guid: 486fd80c7954b344ba016de7aafc586a, type: 3}
   m_ShaderKeywords: 
@@ -48,3 +49,4 @@ Material:
     - _InnerColor: {r: 0.0017301054, g: 0.07099391, b: 0.2352941, a: 1}
     - _RimColor: {r: 0.1146194, g: 0.20173006, b: 0.7794118, a: 1}
     - _Speed: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
